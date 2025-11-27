@@ -1,0 +1,6 @@
+D:\vs2017repos\Project1\Project1\obj\form1.cs\Project1.csprojAssemblyReference.cache
+D:\vs2017repos\Project1\Project1\obj\form1.cs\Project1.Form1.resources
+D:\vs2017repos\Project1\Project1\obj\form1.cs\Project1.Properties.Resources.resources
+D:\vs2017repos\Project1\Project1\obj\form1.cs\Project1.csproj.GenerateResource.cache
+D:\vs2017repos\Project1\Project1\obj\form1.cs\Project1.exe.licenses
+D:\vs2017repos\Project1\Project1\obj\form1.cs\Project1.csproj.CoreCompileInputs.cache
